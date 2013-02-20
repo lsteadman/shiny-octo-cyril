@@ -2,7 +2,7 @@ public class Testing {
 
 
 	public void sayHello() {
-		System.out.println("Hello there!");
+		System.out.println("Hello World!");
 	}
 
 	public void sayHelloTo(String name){
